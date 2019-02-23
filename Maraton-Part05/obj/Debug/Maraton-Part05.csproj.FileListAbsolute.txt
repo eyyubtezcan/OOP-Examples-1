@@ -1,0 +1,7 @@
+C:\Users\Eyyub TEZCAN\source\repos\OOP\Maraton-Part01\Maraton-Part05\obj\Debug\Maraton-Part05.csprojAssemblyReference.cache
+C:\Users\Eyyub TEZCAN\source\repos\OOP\Maraton-Part01\Maraton-Part05\obj\Debug\Maraton-Part05.csproj.CoreCompileInputs.cache
+C:\Users\Eyyub TEZCAN\source\repos\OOP\Maraton-Part01\Maraton-Part05\bin\Debug\Maraton-Part05.exe.config
+C:\Users\Eyyub TEZCAN\source\repos\OOP\Maraton-Part01\Maraton-Part05\bin\Debug\Maraton-Part05.exe
+C:\Users\Eyyub TEZCAN\source\repos\OOP\Maraton-Part01\Maraton-Part05\bin\Debug\Maraton-Part05.pdb
+C:\Users\Eyyub TEZCAN\source\repos\OOP\Maraton-Part01\Maraton-Part05\obj\Debug\Maraton-Part05.exe
+C:\Users\Eyyub TEZCAN\source\repos\OOP\Maraton-Part01\Maraton-Part05\obj\Debug\Maraton-Part05.pdb
